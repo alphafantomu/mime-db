@@ -1,6 +1,6 @@
   return {
     name = "alphafantomu/mime-db",
-    version = "0.0.2",
+    version = "0.0.3",
     description = "port of nodejs mime-db in lua",
     tags = { "lua", "lit", "mime", "database" },
     license = "MIT",
